@@ -1,0 +1,21 @@
+\babel@toc {french}{}\relax 
+\contentsline {section}{\numberline {1}Présentation du projet}{2}{section.1}%
+\contentsline {section}{\numberline {2}Structure MVC (Modèle/Vue/Contrôleur)}{2}{section.2}%
+\contentsline {section}{\numberline {3}Compréhension de la conception logicielle}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Modèle et patterns}{2}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Modèle}{3}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Paramétrage du jeu}{3}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Pattern Factory}{3}{subsubsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.4}Pattern Proxy}{4}{subsubsection.3.1.4}%
+\contentsline {subsubsection}{\numberline {3.1.5}Pattern Strategy}{4}{subsubsection.3.1.5}%
+\contentsline {paragraph}{Génération de la grille :}{5}{section*.2}%
+\contentsline {paragraph}{Comportement des joueurs :}{5}{section*.3}%
+\contentsline {subsection}{\numberline {3.2}Contrôleur}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Vue}{6}{subsection.3.3}%
+\contentsline {paragraph}{Classes principales :}{6}{section*.4}%
+\contentsline {paragraph}{Écoute des événements :}{7}{section*.5}%
+\contentsline {section}{\numberline {4}Algorithmes non triviaux}{8}{section.4}%
+\contentsline {section}{\numberline {5}Compilation et Exécution}{9}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Compilation}{9}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}Partie Console}{9}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}Partie Graphique}{9}{subsubsection.5.1.2}%
